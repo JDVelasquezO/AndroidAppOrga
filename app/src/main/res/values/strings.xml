@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrgaApp</string>
+    <string name="welcome_text">Bienvenidos a la app</string>
+    <string name="img1">digital circuit image</string>
+    <string name="title_text">ORGA Grupo 6</string>
+    <string name="instructions_text">Puede llenar el campo de texto con un caracter a la vez</string>
+</resources>
